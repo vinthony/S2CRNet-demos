@@ -2,7 +2,7 @@
 
 <b>Jingtang Liang*, <a href='http://vinthony.github.io'>Xiaodong Cun*</a>, <a href='http://www.cis.umac.mo/~cmpun/'>Chi-Man Pun</a>, <a href='https://juew.org/'>Jue Wang</a> </b>
 
-[Paper](https://arxiv.org/abs/2109.05750) | [Code Repo](https://github.com/stefanLeong/S2CRNet) | Demos (this repo)
+[Paper](https://arxiv.org/abs/2109.05750) | [Code Repo](https://github.com/stefanLeong/S2CRNet) | Demos (this repo) | [Google Colab](https://colab.research.google.com/drive/12gH5XDhpCGS_B_5xaJtCVvYrw6gfHtaS#scrollTo=Y5vFGrBLctND)
 
 
 <p style='align:center'><img src='https://user-images.githubusercontent.com/4397546/133198989-e4e2cc21-92fd-4f9b-a487-cdb05be3175e.png'><p>
