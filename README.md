@@ -1,4 +1,4 @@
-## Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization
+## Online demos of our ECCV 2022 paper "Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization".
 
 <b>Jingtang Liang*, <a href='http://vinthony.github.io'>Xiaodong Cun*</a>, <a href='http://www.cis.umac.mo/~cmpun/'>Chi-Man Pun</a>, <a href='https://juew.org/'>Jue Wang</a> </b>
 
