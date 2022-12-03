@@ -1,0 +1,10 @@
+a0041_1_5.jpg others 4
+a0196_1_4.jpg animal 1
+a1796_1_2.jpg person 0
+a3163_1_1.jpg animal 1
+a3815_1_3.jpg person 0
+f1380_1_1.jpg animal 1
+f1521_1_1.jpg food 2
+f1566_1_2.jpg person 0
+f2232_1_2.jpg food 2
+f4297_1_1.jpg animal 1
